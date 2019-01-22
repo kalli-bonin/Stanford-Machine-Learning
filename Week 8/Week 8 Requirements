@@ -1,0 +1,7 @@
+This week's focus was K-means Clustering and Principal Component Analysis - you can find the files assigned in the following list:
+	pca.m - Perform principal component analysis
+	projectData.m - Projects a data set into a lower dimensional space 
+	recoverData.m - Recovers the original data from the projection 
+	findClosestCentroids.m-Findclosestcentroids(usedinK-means) 
+	computeCentroids.m - Compute centroid means (used in K-means) 
+	kMeansInitCentroids.m - Initialization for K-means centroids
